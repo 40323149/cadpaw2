@@ -36,6 +36,13 @@
 <v t="amd.20150919113957.1"><vh>以下為 pelican 文章</vh></v>
 <v t="amd.20150919124128.1"><vh>@button pelican content</vh></v>
 <v t="amd.20150919114010.1" a="E"><vh>@path pelican\content</vh>
+<v t="leo.20151118005800.1"><vh>@edit 40323149_cp_w8.md</vh></v>
+<v t="leo.20151118005750.1"><vh>@edit 40323149_cp_w7.md</vh></v>
+<v t="leo.20151118005742.1"><vh>@edit 40323149_cp_w6.md</vh></v>
+<v t="leo.20151118005734.1"><vh>@edit 40323149_cp_w5.md</vh></v>
+<v t="leo.20151118005600.1"><vh>@edit 40323149_cp_w4.md</vh></v>
+<v t="leo.20151118005551.1"><vh>@edit 40323149_cp_w3.md</vh></v>
+<v t="leo.20151118005538.1"><vh>@edit 40323149_cp_w2.md</vh></v>
 <v t="amd.20150919114035.1"><vh>@edit 2015cphww1.md</vh></v>
 </v>
 <v t="amd.20150919120205.1"><vh>以下為 reveal 投影片</vh></v>
@@ -264,7 +271,7 @@
 </v>
 </v>
 </v>
-<v t="ibm.20150918175403.1" a="E"><vh>@clean cpw1.html</vh>
+<v t="ibm.20150918175403.1"><vh>@clean cpw1.html</vh>
 <v t="ibm.20150918175403.2"><vh>檔案說明</vh></v>
 <v t="ibm.20150918175403.3" a="E"><vh>html 標註</vh>
 <v t="ibm.20150918175403.4" a="E"><vh>body 標註</vh>
@@ -282,7 +289,7 @@
 </v>
 </v>
 </v>
-<v t="amd.20150915211341.1" a="E"><vh>@clean simplest.html</vh>
+<v t="amd.20150915211341.1"><vh>@clean simplest.html</vh>
 <v t="amd.20150917085040.1"><vh>檔案說明</vh></v>
 <v t="amd.20150915211351.1" a="E"><vh>html 標註</vh>
 <v t="amd.20150915211351.4" a="E"><vh>body 標註</vh>
@@ -303,19 +310,19 @@
 </v>
 </v>
 </v>
-<v t="amd.20150915170743.1"><vh>@clean v31ref.html</vh>
-<v t="amd.20150915170743.2" a="E"><vh>html 標註</vh>
+<v t="amd.20150915170743.1" a="E"><vh>@clean v31ref.html</vh>
+<v t="amd.20150915170743.2"><vh>html 標註</vh>
 <v t="amd.20150915170743.3" a="E"><vh>head</vh>
 <v t="amd.20150915170743.4"><vh>title - 標題</vh></v>
 <v t="amd.20150915170743.5"><vh>meta - 說明</vh></v>
 <v t="amd.20150915170743.6"><vh>script - css 與 pdf 列印</vh></v>
 </v>
-<v t="amd.20150915170743.7" a="E"><vh>body</vh>
+<v t="amd.20150915170743.7"><vh>body</vh>
 <v t="amd.20150915170743.8" a="E"><vh>div - reveal</vh>
-<v t="amd.20150915170743.9" a="E"><vh>div - slides</vh>
+<v t="amd.20150915170743.9"><vh>div - slides</vh>
 <v t="amd.20150915170743.10"><vh>h1 - 一般單頁</vh></v>
 <v t="amd.20150915170743.11"><vh>h2</vh></v>
-<v t="amd.20150915170743.12" a="E"><vh>h2 - 垂直有下屬頁</vh>
+<v t="amd.20150915170743.12"><vh>h2 - 垂直有下屬頁</vh>
 <v t="amd.20150915170743.13"><vh>h2</vh></v>
 <v t="amd.20150915170743.14"><vh>h2</vh></v>
 <v t="amd.20150915170743.15"><vh>h2</vh></v>
@@ -2326,9 +2333,9 @@ Diff...
     &lt;section&gt;
     &lt;h1&gt;第三週內容&lt;/h1&gt;
     &lt;p&gt;1.reveal與js pellican網址投影片製作&lt;/p&gt;
-    &lt;p&gt;2.摘要&lt;/p&gt;
-    &lt;p&gt;3.Solvespace操作&lt;/p&gt;
-    &lt;p&gt;4.將隨身leo網址，安裝到近端並解壓縮&lt;/p&gt;
+    &lt;p&gt;2.&lt;a href="http://www.sciencedirect.com/science/article/pii/B9780815514473500029"&gt;摘要&lt;/a&gt;&lt;/p&gt;
+    &lt;p&gt;3.Solvespace 操作: &lt;a href="http://solvespace.com/tutorial.pl"&gt;連結&lt;/a&gt; (簡介)&lt;/p&gt;
+    &lt;p&gt;4.將隨身leo安裝到近端並解壓縮網址:&lt;a href="http://140.130.17.17/public/fix.zip"&gt;連結&lt;/a&gt;&lt;/p&gt;
     &lt;p&gt;5.把fix.bat打開&lt;/p&gt;
     &lt;/section&gt;
       &lt;section&gt;
@@ -2341,13 +2348,13 @@ Diff...
 <t tx="leo.20151107162343.1">&lt;section&gt;
     &lt;section&gt;
     &lt;h1&gt;第四週內容&lt;/h1&gt;
-    &lt;p&gt;1.Creo Parametric基本操作&lt;/p&gt;
+    &lt;p&gt;1.Creo Parametric 基本操作: &lt;a href="https://copy.com/97ZkQ0UqfVUPTxn8"&gt;連結&lt;/a&gt;&lt;/p&gt;
     &lt;p&gt;2.Solvespace的繪圖&lt;/p&gt;
     &lt;/section&gt;
       &lt;section&gt;
     &lt;h2&gt;心得和自評&lt;/h2&gt;
     &lt;p&gt;心得:這禮拜家裡因有急事請假，所以這堂課沒上到，回來後請教同學這週課程，Creo是第一次碰，所以還要多多練習，而Solvespace有比上次更上手&lt;/p&gt;
-    &lt;p&gt;自評:70分&lt;/p&gt;
+    &lt;p&gt;自評:65分&lt;/p&gt;
     &lt;/section&gt;
 &lt;/section&gt;
 </t>
@@ -2355,9 +2362,10 @@ Diff...
     &lt;section&gt;
     &lt;h1&gt;第六週內容&lt;/h1&gt;
     &lt;p&gt;1.pelican 網誌與 reveal.js 投影片製作, 內容送到 Github pages&lt;/p&gt;
-    &lt;p&gt;2.Solvespace 基本操作&lt;/p&gt;
-    &lt;p&gt;3.Creo Parametric 基本操作&lt;/p&gt;
-    &lt;p&gt;4.Pro/Engineer Mechanism&lt;/p&gt;
+    &lt;p&gt;2.&lt;a href="What engineers do? "&gt;摘要&lt;/a&gt;&lt;p&gt;
+    &lt;p&gt;3.Solvespace 基本操作: &lt;a href="http://solvespace.com/tutorial.pl (簡介)"&gt;連結&lt;/a&gt;&lt;p&gt;
+    &lt;p&gt;4.Creo Parametric 基本操作: &lt;a href="https://copy.com/97ZkQ0UqfVUPTxn8"&gt;連結&lt;/a&gt;&lt;p&gt;
+    &lt;p&gt;5.Pro/Engineer Mechanism: &lt;a href="https://copy.com/DXQiGkDoe9K8Cz7m (Nutcracker Mechanism)"&gt;連結&lt;/a&gt;&lt;p&gt;
     &lt;/section&gt;
       &lt;section&gt;
     &lt;h2&gt;心得和自評&lt;/h2&gt;
@@ -2369,7 +2377,8 @@ Diff...
 <t tx="leo.20151107162349.1">&lt;section&gt;
     &lt;section&gt;
     &lt;h1&gt;第五週內容&lt;/h1&gt;
-    &lt;p&gt;Pro/Engineer Mechanism: reveal 2.0 更新&lt;/p&gt;
+    &lt;p&gt;Pro/Engineer Mechanism:&lt;a href="https://copy.com/DXQiGkDoe9K8Cz7m (Nutcracker Mechanism)"&gt;連結&lt;/a&gt;&lt;/p&gt;
+    &lt;p&gt;reveal 2.0 更新&lt;p&gt;
     &lt;/section&gt;
       &lt;section&gt;
     &lt;h2&gt;心得和自評&lt;/h2&gt;
