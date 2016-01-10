@@ -164,7 +164,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20160110025120.1"><vh>@clean 40323149_cp_w13.html</vh>
+<v t="leo.20160110025120.1" a="E"><vh>@clean 40323149_cp_w13.html</vh>
 <v t="leo.20160110025120.2"><vh>檔案說明</vh></v>
 <v t="leo.20160110025120.3" a="E"><vh>html 標註</vh>
 <v t="leo.20160110025120.4" a="E"><vh>body 標註</vh>
@@ -185,7 +185,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20160110025307.1"><vh>@clean 40323149_cp_w14.html</vh>
+<v t="leo.20160110025307.1" a="E"><vh>@clean 40323149_cp_w14.html</vh>
 <v t="leo.20160110025307.2"><vh>檔案說明</vh></v>
 <v t="leo.20160110025307.3" a="E"><vh>html 標註</vh>
 <v t="leo.20160110025307.4" a="E"><vh>body 標註</vh>
@@ -2732,7 +2732,7 @@ content: "課程: 電腦輔助設計實習A 學號: 40323149"; }&lt;/style&gt;</
 
     &lt;h3&gt;心得與自評&lt;/h3&gt;
     &lt;br&gt;
-    &lt;p&gt;心得:這一周大致上跟上週一樣沒有甚麼變化,各組成員分工合作,有人畫零件,有的用leo...等，增加效率更快完成。&lt;/p&gt;
+    &lt;p&gt;心得:各組成員分工合作,有人畫零件,有的用leo...等，增加效率更快完成。&lt;/p&gt;
     &lt;br&gt;
     &lt;p&gt;評分 : 70 &lt;/p&gt; 
 &lt;/section&gt;		
@@ -2815,7 +2815,7 @@ content: "課程: 電腦輔助設計實習A 學號: 40323149"; }&lt;/style&gt;</
     &lt;section&gt;
     &lt;h3&gt;課程筆記&lt;/h3&gt;
     &lt;hr size="1" align="center" noshade width="100%" color=blue&gt;
-    &lt;p align="left"&gt;1.組合零件&lt;/p&gt;
+    &lt;p align="left"&gt;1.組合零件(用creo)&lt;/p&gt;
     &lt;br&gt;
     &lt;p align="left"&gt;2.提到要開始建立組別的倉儲&lt;/p&gt;
     &lt;br&gt;
@@ -2835,7 +2835,7 @@ content: "課程: 電腦輔助設計實習A 學號: 40323149"; }&lt;/style&gt;</
 
     &lt;h3&gt;心得與自評&lt;/h3&gt;
     &lt;br&gt;
-    &lt;p&gt;心得:fix掛掉後一度癱瘓大家開leo，還好老師最後用其他方法再度讓leo復活，使作業能繼續前進，而零件部分也差不多快完成。&lt;/p&gt;
+    &lt;p&gt;心得:fix掛掉後一度癱瘓大家開leo，拖延了課程的操作，還好老師最後用其他方法再度讓leo能再開啟，使作業能繼續前進，而零件部分也差不多快完成。&lt;/p&gt;
     &lt;br&gt;
     &lt;p&gt;評分 : 70 &lt;/p&gt; 
 &lt;/section&gt;		
@@ -3023,9 +3023,9 @@ content: "課程: 電腦輔助設計實習A 學號: 40323149"; }&lt;/style&gt;</
     &lt;section&gt;
     &lt;h3&gt;課程筆記&lt;/h3&gt;
     &lt;hr size="1" align="center" noshade width="100%" color=blue&gt;
-    &lt;p align="left"&gt;1.第十四週內容&lt;/p&gt;
+    &lt;p align="left"&gt;1.錄製影片&lt;/p&gt;
     &lt;br&gt;
-    &lt;p align="left"&gt;2.錄影片&lt;/p&gt;
+    &lt;p align="left"&gt;2.將上傳影片至vimeo，以取得連結&lt;/p&gt;
     &lt;br&gt;
     &lt;p align="left"&gt;3.點名&lt;/p&gt;
     &lt;br&gt;
@@ -3235,7 +3235,7 @@ content: "課程: 電腦輔助設計實習A 學號: 40323149"; }&lt;/style&gt;</
     &lt;hr size="1" align="center" noshade width="100%" color=blue&gt;
     &lt;p align="left"&gt;1.繼續使用onshape畫零件&lt;/p&gt;
     &lt;br&gt;
-    &lt;p align="left"&gt;2.2.開始組裝&lt;/p&gt;
+    &lt;p align="left"&gt;2.開始組裝&lt;/p&gt;
     &lt;br&gt;
     &lt;/section&gt;
 &lt;/section&gt;
@@ -3356,7 +3356,7 @@ content: "課程: 電腦輔助設計實習A 學號: 40323149"; }&lt;/style&gt;</
 
     &lt;h3&gt;心得與自評&lt;/h3&gt;
     &lt;br&gt;
-    &lt;p&gt;心得:這一周要用Creo畫圖，老實說我不太會用...，有問題時都去請教組員如何操作，學會一些必要的技能。&lt;/p&gt;
+    &lt;p&gt;心得:這週為建立自己的各人檔案，因user被刪除，要重新建立，雖然感覺麻煩，但之後不會像期中前一樣掛掉。&lt;/p&gt;
     &lt;br&gt;
     &lt;p&gt;評分 : 65 &lt;/p&gt; 
 &lt;/section&gt;		
@@ -3439,9 +3439,11 @@ content: "課程: 電腦輔助設計實習A 學號: 40323149"; }&lt;/style&gt;</
     &lt;section&gt;
     &lt;h3&gt;課程筆記&lt;/h3&gt;
     &lt;hr size="1" align="center" noshade width="100%" color=blue&gt;
-    &lt;p align="left"&gt;1.用Creo畫零件&lt;/p&gt;
+    &lt;p align="left"&gt;1.下載一份班上倉儲並回復到原始的版本(git reset --hard ssl網址)。&lt;/p&gt;
     &lt;br&gt;
-    &lt;p align="left"&gt;2.組員分配零件並且組起來&lt;/p&gt;
+    &lt;p align="left"&gt;2.自己的內容，獨立修改成自己的檔案，並存在新版的班上倉儲中(user內自己的資料夾)。&lt;/p&gt;
+    &lt;br&gt;
+    &lt;p align="left"&gt;2.新倉儲存檔後推回遠端即可。&lt;/p&gt;
     &lt;br&gt;
     &lt;/section&gt;
 &lt;/section&gt;
